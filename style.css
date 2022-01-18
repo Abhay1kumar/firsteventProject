@@ -1,0 +1,28 @@
+.event-all{
+    border: 1px solid;
+    margin: 25px;
+    width:fit-content;
+}
+.firsthead{
+   border: 1px solid;
+   text-align: center;
+   background:linear-gradient(blue, white);
+   font-weight: bold;
+}
+
+img{
+    height: 420;
+    width: 200;
+    width:fit-content;
+}
+.details{
+ 
+    width: fit-content;
+    text-align: center;
+   
+    font-weight: bold;
+    display:initial;
+    display:flexbox;
+    text-align: right;
+margin-bottom :300px;
+}
